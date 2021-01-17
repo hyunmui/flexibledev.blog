@@ -1,0 +1,9 @@
+{
+  "name": "flexibledev.blog",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/hyunmui/flexibledev.blog.git",
+  "author": "Hyeonmin Seon",
+  "license": "MIT",
+  "private": "true"
+}
